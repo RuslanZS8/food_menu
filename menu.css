@@ -14,7 +14,7 @@ body {
 }
 
 .logo img {
-    width: 150px;
+    width: 90px;
     height: auto;
     border-radius: 350px;
 }
@@ -134,3 +134,4 @@ body {
 .arrow-btn:hover {
     background: #e6e6e6;
 }
+
